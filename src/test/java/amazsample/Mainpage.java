@@ -39,7 +39,7 @@ public class Mainpage extends BaseClass1 {
 		Addtocart add = new Addtocart();
 		add.getAddtocart().click();
 		System.out.println("Sample");
-		System.out.println();
+		System.out.println("new code");
 
 	}
 

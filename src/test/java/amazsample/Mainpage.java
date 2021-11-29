@@ -40,6 +40,10 @@ public class Mainpage extends BaseClass1 {
 		add.getAddtocart().click();
 		System.out.println("Sample");
 		System.out.println("new code");
+		System.out.println("Sample");
+		System.out.println("new code");
+		System.out.println("Sample");
+		System.out.println("new code");
 
 	}
 

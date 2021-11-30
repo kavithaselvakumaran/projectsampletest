@@ -6,10 +6,10 @@ import org.openqa.selenium.support.PageFactory;
 
 import projsample.BaseClass1;
 
-public class Addtocart extends BaseClass1{
+public class Addtowishlist  extends BaseClass1{
 	
 	
-	public Addtocart  () {
+	public Addtowishlist  () {
 		PageFactory.initElements(driver, this);
 		
 	}
@@ -17,6 +17,10 @@ public class Addtocart extends BaseClass1{
 	private WebElement addtocart;
 	
 	public WebElement getAddtocart() {
+		System.out.println("--------done1");
+		System.out.println("--------done2");
+		System.out.println("--------done3");
+		System.out.println("--------done4");
 		return addtocart;
 	}
 

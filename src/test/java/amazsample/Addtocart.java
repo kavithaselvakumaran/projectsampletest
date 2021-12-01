@@ -6,7 +6,13 @@ import org.openqa.selenium.support.PageFactory;
 
 import projsample.BaseClass1;
 
+
 public class Addtocart extends BaseClass1{
+	public void emp() {
+		
+		System.out.println("test1");
+		
+	}
 	
 	
 	public Addtocart  () {
